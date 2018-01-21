@@ -6,12 +6,12 @@
 squaredNums([1, 2, 3]);
 => [1, 4, 9]
 ```
-1. Write a function called `bigFather` that takes in an array of strings and returns a new array with all of the strings capitalized. 
+2. Write a function called `bigFather` that takes in an array of strings and returns a new array with all of the strings capitalized. 
 ```
 bigFather(["luke", "i", "am", "your", "father"]);
 => ["LUKE", "I", "AM", "YOUR", "FATHER"]
 ```
-1. Write a function called `countVowels` that takes in a string and returns the number of vowels found in the string. 
+3. Write a function called `countVowels` that takes in a string and returns the number of vowels found in the string. 
 ```
 countVowels("hello"); 
 => 2
@@ -20,8 +20,8 @@ countVowels("hello");
 countVowels("aaaaaaaapples"); 
 => 9
 ```
-1. Write a function called `bigStrings` that takes in an array of strings and returns a new array containing all of the strings that were longer than 10 characters. 
-1. Write a function named `sentenceJoiner` that takes in an array of strings and returns a single string with these conditions. 
+4. Write a function called `bigStrings` that takes in an array of strings and returns a new array containing all of the strings that were longer than 10 characters. 
+5. Write a function named `sentenceJoiner` that takes in an array of strings and returns a single string with these conditions. 
 - The first word should be capitalized.  
 - Each word should be separated by a space.  
 - There should be a period at the end of the sentence.  
@@ -37,8 +37,8 @@ countNum([1, 2, 3, 2, 2, 1, 6], 2);
 countNum([1, 2, 3, 2, 2, 1, 6], 6);
 => 1
 ```
-1. Write a **FUNCTION** called `ninetyNineBottles` that console.logs the lyrics to [99 Bottles of Beer on the Wall](http://www.99-bottles-of-beer.net/lyrics.html). Hint: You should loop, but don't use an array. 
-1. Write a function called `buildATree` that takes in a number `n` and console.logs a tree made of `n` rows of asterisks. For example: 
+2. Write a **FUNCTION** called `ninetyNineBottles` that console.logs the lyrics to [99 Bottles of Beer on the Wall](http://www.99-bottles-of-beer.net/lyrics.html). Hint: You should loop, but don't use an array. 
+3. Write a function called `buildATree` that takes in a number `n` and console.logs a tree made of `n` rows of asterisks. For example: 
 ``` 
 buildATree(3);  
   
