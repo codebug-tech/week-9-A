@@ -1,6 +1,7 @@
 # More Loops
 
-### 
+### Exercises
+0. Reading code is an important skill for a programmer. Look over [this link](https://stackoverflow.com/a/12491142/1493453). They are using a new technique with the `for loop`, you will use this technique in exercises 1 & 2 (maybe more!). 
 1. Write a function called `squaredNums` that accepts an array of numbers as a parameter and outputs an array containing the squares of every number. Example: 
 ```
 squaredNums([1, 2, 3]);
