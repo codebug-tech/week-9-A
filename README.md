@@ -25,6 +25,11 @@ countVowels("aaaaaaaapples");
 - The first word should be capitalized.  
 - Each word should be separated by a space.  
 - There should be a period at the end of the sentence.  
+6. Write a function called `longestPhrase` that takes in an array of strings and returns the longest phrase. 
+```
+longestPhrase(['hi', 'how', 'are', 'you', 'doing today']);
+=> 'doing today'
+```
 
 
 ### Challenges
@@ -37,7 +42,7 @@ countNum([1, 2, 3, 2, 2, 1, 6], 2);
 countNum([1, 2, 3, 2, 2, 1, 6], 6);
 => 1
 ```
-2. Write a **FUNCTION** called `ninetyNineBottles` that console.logs the lyrics to [99 Bottles of Beer on the Wall](http://www.99-bottles-of-beer.net/lyrics.html). Hint: You should loop, but don't use an array. 
+2. Write a function called `ninetyNineBottles` that console.logs the lyrics to [99 Bottles of Beer on the Wall](http://www.99-bottles-of-beer.net/lyrics.html). Hint: You should loop, but don't use an array. 
 3. Write a function called `buildATree` that takes in a number `n` and console.logs a tree made of `n` rows of asterisks. For example: 
 ``` 
 buildATree(3);  
